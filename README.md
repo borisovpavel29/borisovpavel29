@@ -3,7 +3,7 @@ middle (for now) DevOps @ Maximum
 ### skills:
 - os: linux, windows server
 - scripts: bash, powershell, python
-- databases: ms sql, postgresql, oracle, firebird
+- databases: postgresql (HA), ms sql, oracle, firebird
 - ci/cd: git, gitlab, azure devops, kaniko, nexus
 - IaC: ansible, terraform
 - virt: proxmox, hyper-v
