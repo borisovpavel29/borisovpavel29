@@ -1,6 +1,6 @@
 middle (for now) DevOps @ Maximum
 
-### skills:
+### i do:
 - os: linux, windows server
 - scripts: bash, powershell, python
 - databases: postgresql (HA), ms sql, oracle, firebird
